@@ -1,0 +1,5 @@
+1607870458 INFO darren : Program info which cannot be wirten, darren = 100
+1607870458 ALERT darren : Alert info
+1607870458 WARN darren : This will be a logged warning, darren = 100
+1607870458 CRIT darren : Importance depends on context
+1607870458 CRIT darren : This will show up << as 1 critical message
